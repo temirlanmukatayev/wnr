@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   WNR - это душевный проект про здоровье и энергичность длиной в жизнь.
 twitter_username: wnr_public
 github_username: wnr
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
