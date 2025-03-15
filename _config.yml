@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: WNR про здоровье и энергичность
+title: WNR | здоровье и энергичность
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   WNR - это душевный проект про здоровье и энергичность длиной в жизнь.
@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "WNR про здоровье и энергичность"
+  name   : "WNR | здоровье и энергичность"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Душевный проект про здоровье и энергичность длиной в жизнь."
+  bio    : "Будь лучшей версией себя! WNR - это душевный проект про здоровье и энергичность длиной в жизнь"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
