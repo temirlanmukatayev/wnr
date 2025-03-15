@@ -60,18 +60,15 @@ author:
   avatar : "/assets/images/wnr-pro-zdorovie-i-energichnost.jpg"
   bio    : "Будь лучшей версией себя! WNR - это душевный проект про здоровье и энергичность длиной в жизнь"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - label: "YouTube"
+      icon: "fa fa-youtube"
+      url: "https://www.youtube.com/@wnr_public/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "VK"
+      icon: "fa fa-vk"
+      url: "https://vkvideo.ru/@wnr_public"
 
 footer:
   links:
