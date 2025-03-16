@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Будь лучшей версией себя"
   avatar : "/assets/images/wnr-pro-zdorovie-i-energichnost.jpg"
-  bio    : "WNR - это душевный проект про здоровье и энергичность длиной в жизнь"
+  bio    : "WNR - это душевный проект про здоровье и энергичность длиной в жизнь, основанный Темирланом Мукатаевым"
   links:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
