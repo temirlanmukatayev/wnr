@@ -1,9 +1,10 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "О проекте"
     url: /about/
+  - title: "Посты"
+    url: /posts/
+  - title: "Категории"
+    url: /categories/
+  - title: "Тэги"
+    url: /tags/
+  
