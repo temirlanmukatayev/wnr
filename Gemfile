@@ -1,3 +1,14 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 4.3.2"
+gem "minimal-mistakes-jekyll"
+gem "jekyll-include-cache"
+gem "jekyll-feed"
+gem "jekyll-sitemap"
+gem "jekyll-seo-tag"
+gem "jekyll-paginate"
+gem "jekyll-gist"
+gem "jekyll-archives"
+gem "jekyll-remote-theme"
+gem "jekyll-target-blank"
+gem "jemoji"
